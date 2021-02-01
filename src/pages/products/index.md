@@ -2,7 +2,7 @@
 heading: Great essential oils
 path: /products
 templateKey: product-page
-title: Our Services
+title: Our products
 image: /img/header-2.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
