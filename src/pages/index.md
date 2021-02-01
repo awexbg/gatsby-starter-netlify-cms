@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great essential oils
-image: /img/home-jumbotron.jpg
+image: /img/header-1.jpg
 heading: Great essential oils
 subheading: The best experts in essential oils
 mainpitch:
