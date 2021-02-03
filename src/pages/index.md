@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great essential oils
-image: /img/header-3.jpg
+image: /img/18622124_10213070812504104_3149108804987428340_n.jpg
 heading: Great essential oils
 subheading: The best experts in essential oils
 mainpitch:
