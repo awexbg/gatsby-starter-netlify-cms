@@ -14,7 +14,7 @@ mainpitch:
     различните краища на света поради различният климат са виреели различни
     типове растителност,от които местното население  си е приготвяло храна,
     както и подправки за нея, както и е варило различни отвари и извлеци за
-    лечение на болести.
+    лечение на болести. 
 
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
