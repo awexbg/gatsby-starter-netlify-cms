@@ -6,7 +6,7 @@ heading: Great essential oils
 subheading: The best experts in essential oils
 mainpitch:
   title: Защо света се връща към натуралното
-  description: >
+  description: >+
     От както съществува земята и е населена с хора ,те са се изхранвали и
     лекували с нейните плодове! Всичко, което е раждала, човека е използвал за
     да може да съществува на нея. С течение на времето е откривал различните
@@ -15,6 +15,7 @@ mainpitch:
     типове растителност,от които местното население  си е приготвяло храна,
     както и подправки за нея, както и е варило различни отвари и извлеци за
     лечение на болести.
+
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
