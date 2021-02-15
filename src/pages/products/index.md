@@ -19,54 +19,46 @@ intro:
   description: |
     Роза, Маточина, Лавандула, Лайка.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Страхотни етерични масла без компромис!
+  description: "\n"
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Essentials Trader
+    image: /img/balm.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Essentials Trader
+    image: /img/hed-lavandula.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Essentials Trader
+    image: /img/12109192_10207978529960223_3207348625725697952_n.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Борислав Петков
+    quote: Най-добрите етерични масла произведени в България!
+  - author: Иван Василев
+    quote: Супер професионалисти с доказан опит над 20 години в бранша!
+full_image: /img/1601852_10207262556381331_6680998995307883754_o.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Консултантски услуги
+  description: Ние извършваме консултански услуги за малък, среден и голям бизнес.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Направете запитване чрез контактната форма в уебсайта.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - Консултация
+        - Проекти
+        - Мениджмънт
+      plan: Малък бизнес
+      price: "?"
+    - description: Направете запитване чрез контактната форма в уебсайта.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Консултация
+        - Проекти
+        - Мениджмънт
+      plan: Среден бизнес
       price: ??
+    - description: Направете запитване чрез контактната форма в уебсайта.
+      items:
+        - Консултация
+        - Проекти
+        - Мениджмънт
+      plan: Корпоративни клиенти
+      price: ???
 ---
