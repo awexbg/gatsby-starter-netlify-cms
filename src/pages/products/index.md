@@ -10,7 +10,7 @@ intro:
     - image: /img/rose.jpg
       text: Роза
     - image: /img/balm.jpg
-      text: Мащерка
+      text: Маточина
     - image: /img/lavander.jpg
       text: Лавандула
     - image: /img/camomile.jpg
