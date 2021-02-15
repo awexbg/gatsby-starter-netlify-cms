@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great essential oils
+title: ЕТЕРИЧНИ МАСЛА
 image: /img/18622124_10213070812504104_3149108804987428340_n.jpg
-heading: Great essential oils
-subheading: The best experts in essential oils
+heading: Най-добрите експерти в етеричните масла!
+subheading: Най-добрите експерти в етеричните масла!
 mainpitch:
   title: Защо света се връща към натуралното
   description: >+
