@@ -1,13 +1,10 @@
 ---
-heading: Great essential oils
+heading: Етерични масла
 path: /products
 templateKey: product-page
-title: Our Products
+title: Продукти
 image: /img/hed-lavandula.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Висококачествени етерични масла
 intro:
   blurbs:
     - image: /img/download-1-.jpg
@@ -30,7 +27,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Какво предлагаме
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
