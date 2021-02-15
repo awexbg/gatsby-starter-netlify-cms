@@ -4,7 +4,7 @@ path: /products
 templateKey: product-page
 title: Продукти
 image: /img/hed-lavandula.jpg
-description: Висококачествени етерични масла
+description: Висококачествени етерични масла!
 intro:
   blurbs:
     - image: /img/download-1-.jpg
