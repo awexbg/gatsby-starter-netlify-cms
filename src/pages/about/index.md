@@ -11,4 +11,4 @@ title: За нас
 
 Презентатор - Методи Стефанов.
 
-[video](https://www.youtube.com/watch?v=icJw9HXXoXA)
+[](https://www.youtube.com/watch?v=icJw9HXXoXA)
